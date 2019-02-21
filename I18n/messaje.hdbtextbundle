@@ -1,0 +1,61 @@
+# Mensajes Genericos
+# Mensaje Ok
+code.idf1=1
+msj.idf1=OK
+# Mensajes Errores Funcionales
+code.idf2=2
+msj.idf2=No se encontro información
+code.idf3=3
+msj.idf3=No se registro correctamente
+code.idf4=4
+msj.idf4=no tiene permisos para ejecutar el servicio
+code.idf5=5
+msj.idf5=Solo se permite contenido json
+code.idf6=6
+msj.idf6=No se envio información para procesar
+code.idf7=7
+msj.idf7=Registro Duplicado
+code.idf8=8
+msj.idf8=Existen valores duplicados, favor de revisar
+code.idf9=9
+msj.idf9=Acción no soportada
+code.idf10=10
+msj.idf10=Falta parametro : {0}
+code.idt11=11
+msj.idt11= El Registro ya existe: {0}
+code.idf12=12
+msj.idf12=Se necesito el numero de transacción
+
+
+# Mensajes Errores Tecnicos
+code.idt1=-1
+msj.idt1=Error en BD: {0}
+code.idt2=-2
+msj.idt2=Error en el Proceso: {0}
+code.idt3=-3
+msj.idt3=Error en el Servicio: {0}
+code.idt4=-4
+msj.idt4=Error al procesar parametros de Auditoria: {0}
+code.idt5=-5
+msj.idt5=Metodo Http no soportado
+code.idt6=-6
+msj.idt6=Ocurrio un error en el servicio auditoria : {0}
+code.idt10=-10
+msj.idt10=Ocurrio un error en el servicio sap {0} : {1}
+code.idt98=98
+msj.idt98=Sus credenciales de SAP no son correctas
+code.idt99=99
+msj.idt99=Ocurrio un error en SAP/ERP
+
+# Mensajes Del Api de Roles
+msj.validausuario.idf1=No se pudo autenticar vuelva a intentarlo.
+
+code.crear.rol.idf2=208
+msj.crear.rol.idf2=No se pudo asignar el rol : {0}
+
+code.eliminar.rol.idf2=209
+msj.eliminar.rol.idf2=No se pudo quitar el rol : {0}
+
+msj.crear.usuario.idf1=Registro Exitoso, favor de revisar su  bandeja  de correo ingresado y seguir las instrucciones. 
+msj.recuperar.usuario.idf1=Favor de revisar su bandeja de correo ingresado y seguir las instruciones.
+msj.recuperar.usuario.idf2=No se pudo enviar el correo. Favor de ponerse en contacto con soporte tecnico.
